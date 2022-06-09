@@ -1,0 +1,45 @@
+p {
+    width: 90%;
+    height: 50%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+    padding: auto;
+}
+
+#chicken {
+    font: size 0.75em;
+}
+
+#col1 {
+    background-color: rgb(225, 253, 113);
+    border-radius: 5px;
+    border: 1px solid rgb(244, 84, 153);
+}
+
+#col2 {
+    background-color: rgb(225, 253, 113);
+    border: 1px solid rgb(244, 84, 153);
+    border-radius: 5px;
+}
+
+#col3 {
+    background-color: rgb(225, 253, 113);
+    border: 1px solid rgb(244, 84, 153);
+    border-radius: 5px;
+}
+
+#chicken {
+    text-align: center;
+    color: rgb(210, 78, 199);
+}
+
+#beef {
+    text-align: center;
+    color: rgb(228, 87, 31);
+}
+
+#sushi {
+    text-align: center;
+    color: rgb(20, 52, 255);
+}
